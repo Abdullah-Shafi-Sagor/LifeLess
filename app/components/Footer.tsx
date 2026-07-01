@@ -6,7 +6,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 rounded-xl bg-gradient-to-r from-blue-500 to-purple-600 flex items-center justify-center text-white font-bold">
-                LL
+                 <img src="/logo/LifeLess LOGo.png" alt="LifeLess Lab logo" className="h-11 w-11 rounded-2xl border border-white/10 bg-slate-950 object-cover shadow-lg shadow-brand/20" />
               </div>
               <span className="text-xl font-bold">LifeLess Lab</span>
             </div>
